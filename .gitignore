@@ -1,0 +1,17 @@
+# .NET build output
+bin/
+obj/
+
+# IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files generated at runtime
+context_menu.log
+*.log
